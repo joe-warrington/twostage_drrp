@@ -1,3 +1,5 @@
+# (c) 2017-2019 ETH Zurich, Automatic Control Lab, Joe Warrington, Dominik Ruchti
+
 """
 Stochastic approximation approach for value function approximation in Dynamic Repositioning and
 Rerouting Problem (DRRP). Based on Powell, Ruszczynksi, and Topaloglu, "Learning Algorithms for

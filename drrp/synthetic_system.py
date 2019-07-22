@@ -1,10 +1,4 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jun 27 15:36:38 2017
-
-@author: dominikruchti
-"""
+# (c) 2017-2019 ETH Zurich, Automatic Control Lab, Joe Warrington, Dominik Ruchti
 
 import numpy as np
 from scipy.spatial import distance

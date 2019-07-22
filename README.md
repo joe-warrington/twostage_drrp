@@ -1,10 +1,10 @@
-### About
+## About
 
-This code was developed to produce the results in the paper "Two stage stochastic approximation for dynamic rebalancing of shared mobility systems", Transportation Research Part C: Emerging Technologies, vol. 104, pp. 110-134, July 2019. Available from the publisher Elsevier at <https://www.sciencedirect.com/science/article/pii/S0968090X18314104> or on ArXiv: <https://arxiv.org/abs/1810.01804>
+This code was developed to produce the results in the paper "Two stage stochastic approximation for dynamic rebalancing of shared mobility systems", Transportation Research Part C: Emerging Technologies, vol. 104, pp. 110-134, July 2019. Available from the publisher Elsevier at <https://www.sciencedirect.com/science/article/pii/S0968090X18314104> or on ArXiv: <https://arxiv.org/abs/1810.01804>. The code is distributed as open-source software under the GNU GPLv3 license - see the `LICENSE` file for the terms.
 
-### Requirements
+## Requirements
 
-The code is written in Python 2.7 and requires the solver Gurobi (free for academic use). Note that environment variables need to be set correctly for the solver to be found. In the case of Mac OS, which was used during development, `GRB_LICENSE_FILE` needs to point to the full path including filename of the Gurobi license file. Windows and Linux will have a similar requirement.
+The code is written in Python 2.7 and requires the solver Gurobi (free for academic use, paid-for otherwise). Note that environment variables need to be set correctly for the solver to be found. In the case of Mac OS, which was used during development, `GRB_LICENSE_FILE` needs to point to the full path including filename of the Gurobi license file. Windows and Linux will have a similar requirement.
 
 ## Usage
 

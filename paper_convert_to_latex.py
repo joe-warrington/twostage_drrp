@@ -1,3 +1,5 @@
+# (c) 2017-2019 ETH Zurich, Automatic Control Lab, Joe Warrington, Dominik Ruchti
+
 import pandas as pd
 
 suffix_list = ['_det2s_corrected', '_regular', '_halfinteger', '_integer', '_random']

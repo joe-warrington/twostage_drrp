@@ -1,3 +1,5 @@
+# (c) 2017-2019 ETH Zurich, Automatic Control Lab, Joe Warrington, Dominik Ruchti
+
 import gurobipy as gu
 import numpy as np
 import os
