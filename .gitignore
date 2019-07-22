@@ -1,0 +1,10 @@
+output/*
+network_data/*
+vfs/*
+*.csv
+*.txt
+*.pyc
+*.pyo
+*.log
+.idea/*
+.DS_Store
